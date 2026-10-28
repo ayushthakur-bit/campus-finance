@@ -1,0 +1,6 @@
+{
+  "name": "EduLedger - College Finance Management System",
+  "description": "Comprehensive college finance management portal to track student fee collections, staff salary disbursements, institutional expenses, and administrative records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
